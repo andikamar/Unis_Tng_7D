@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Unis Tng 7D'
